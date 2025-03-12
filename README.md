@@ -1,1 +1,4 @@
-# HCAI_Trust_Understanding
+# HCAI Trust & Understanding
+
+## Contributors
+Gilbert Drzyzga (Lead Developer)
